@@ -29,7 +29,6 @@ Thumbs.db
 
 # Unity meta and cache files
 *.unitypackage
-*.meta
 
 # Local settings
 *.prefs
